@@ -1,8 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700);
 
-body {
-    font-family: 'Open Sans', sans-serif ;
-    font-size: 16px;
+body { 
+    padding-bottom: 70px; 
 }
 
 h1,h2,h3,h4,h5,h6 {
